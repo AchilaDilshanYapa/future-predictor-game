@@ -24,7 +24,7 @@ A fun and interactive web-based fortune-telling game that generates personalized
 
 ## Live Demo
 
-Try the game here=https://github.com/AchilaDilshanYapa/future-predictor-game
+Try the game here=https://achiladilshanyapa.github.io/future-predictor-game/
 
 ## License
 
